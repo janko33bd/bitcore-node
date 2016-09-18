@@ -29,11 +29,11 @@ use bitcore-node from previous compiled directory to create a node
 
 black-node/node_modules/bitcore-node/build/Release
 
-- and replace the whole lib directory from previously compiled blackcore-lib here 
+- and replace the whole 'lib' directory from previously compiled blackcore-lib here 
 
 black-node/node_modules/bitcore-lib
 
-- and copy module scryptsy from blackcore-lib/node_modules to 
+- and copy module 'scryptsy' from blackcore-lib/node_modules to 
 
 black-node/node_modules
 
