@@ -13,15 +13,22 @@ npm install
 ```
 ## Keep going ;P
 to create a node you will need blackcore-lib too, visit
+
+
 https://github.com/janko33bd/bitcore-lib/tree/blackcore-lib
+
+
 and build from source
+
 
 use bitcore-node from previous compiled directory to create a node
 ```
 ./bitcore-node/bin/bitcore-node create black-node
 ```
 now copy your compiled bitcore-node to black-node/node_modules/bitcore-node/build/Release
+
 and replace the whole lib directory from blackcore-lib here black-node/node_modules/bitcore-lib
+
 and copy module scryptsy from blackcore-lib/node_modules to black-node/node_modules
 
 ```
