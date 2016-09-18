@@ -6,11 +6,11 @@ A Blackcoin full node for building applications and services with Node.js. A nod
 Note: For your convenience, we distribute binaries for x86_64 Linux and x86_64 Mac OS X. Upon npm install, the binaries for your platform will be downloaded. For more detailed installation instructions, or if you want to compile the project yourself, then please see the [Build & Install](docs/build.md) documentation to build the project from source.
 
 ## Get Started
-
+```
 git clone -b blackcore-node https://github.com/janko33bd/bitcore-node.git blackcore-node
 cd blackcore-node
 npm install
-
+```
 
 ## Prerequisites
 
