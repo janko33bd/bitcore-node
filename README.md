@@ -23,7 +23,7 @@ and build from source
 
 use bitcore-node from previous compiled directory to create a node
 ```
-./bitcore-node/bin/bitcore-node create black-node
+./blackcore-node/bin/bitcore-node create black-node
 ```
 - now copy your compiled bitcoind.node in blackcore-node/build/Release to 
 
