@@ -39,7 +39,7 @@ black-node/node_modules
 
 ```
 cd black-node
-../bitcore-node/bin/bitcore-node start
+../blackcore-node/bin/bitcore-node start
 
 info: Starting bitcoind
 info: Bitcoin Daemon Ready
